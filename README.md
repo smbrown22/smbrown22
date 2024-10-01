@@ -23,13 +23,13 @@ Cloned after reading instructions
 9. Mint Chip 
 10. Texas Two-Step 
 ### The Foods I Like! (And some I don't :p)
-[ ] Broccoli 
-[x] Burgers 
-[x] Ice Cream
-[ ] Popsicles
-[ ] Slushies 
-[x] Chicken Sandwiches 
-[x] Chicken Tenders 
-[x] Cheese
-[x] Chocolate 
-[ ] Bacon 
+- [ ] Broccoli 
+- [x] Burgers 
+- [x] Ice Cream
+- [ ] Popsicles
+- [ ] Slushies 
+- [x] Chicken Sandwiches 
+- [x] Chicken Tenders 
+- [x] Cheese
+- [x] Chocolate 
+- [ ] Bacon 
