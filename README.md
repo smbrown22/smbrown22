@@ -3,7 +3,7 @@ Made on 9/25/2024
 Basic Repository for Assignment 
 Cloned after reading instructions 
 
-# **_About Me _**
+# **About Me**
 ## My Interests
 > I love to **read**, to _write_, and **_code_**! I also love playing video games. 
 ### My Favorite Websites 
