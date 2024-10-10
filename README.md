@@ -44,8 +44,3 @@ flowchart TD
     D --> G[You choose: Scissors]
     E --> H[You choose: Rock]; 
 
-```mermaid
-pie title How many times my dog barks at: 
-    "Actual Criminals" : 0 
-    "Random Bystander" : 194 
-    "Bunnies" : 7 
