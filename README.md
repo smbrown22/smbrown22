@@ -33,3 +33,11 @@ Cloned after reading instructions
 - [x] Cheese
 - [x] Chocolate 
 - [ ] Bacon 
+flowchart TD
+    A[How to play: Rock, Paper Scissors!]
+    A --> C[Rock]
+    A-->|Oppenent Chooses:| D[Paper]
+    A --> E[Scissors]
+    C--> F[You choose: Paper]
+    D --> G[You choose: Scissors]
+    E --> H[You choose: Rock] 
