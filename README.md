@@ -42,9 +42,5 @@ flowchart TD
     A --> E[Scissors]
     C--> F[You choose: Paper]
     D --> G[You choose: Scissors]
-    E --> H[You choose: Rock] 
-
-pie title How many times my dog barks at: 
-    "Actual Criminals" : 0 
-    "Random Bystander" : 194 
-    "Bunnies" : 7 
+    E --> H[You choose: Rock]
+     
