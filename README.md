@@ -44,8 +44,7 @@ flowchart TD
     D --> G[You choose: Scissors]
     E --> H[You choose: Rock] 
 
-sequenceDiagram
-    Elizabeth->>+William: Hi, my name is Elizabeth!
-    William-->>-Elizabeth: My name is William. 
-    Elizabeth->>+William: Are you hungry at all? 
-    William-->>-Elizabeth: Starving!
+pie title How many times my dog barks at: 
+    "Actual Criminals" : 0 
+    "Random Bystander" : 194 
+    "Bunnies" : 7 
