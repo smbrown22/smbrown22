@@ -33,6 +33,8 @@ Cloned after reading instructions
 - [x] Cheese
 - [x] Chocolate 
 - [ ] Bacon 
+
+```mermaid
 flowchart TD
     A[How to play: Rock, Paper Scissors!]
     A --> C[Rock]
