@@ -34,8 +34,7 @@ Cloned after reading instructions
 - [x] Chocolate 
 - [ ] Bacon 
 
-```mermaid
-@startum1 
+```mermaid 
 flowchart TD
     A[How to play: Rock, Paper Scissors!]
     A --> C[Rock]
@@ -44,8 +43,4 @@ flowchart TD
     C--> F[You choose: Paper]
     D --> G[You choose: Scissors]
     E --> H[You choose: Rock]; 
-@startum2 
-pie title How many times my dog barks at: 
-    "Actual Criminals" : 0 
-    "Random Bystander" : 194 
-    "Bunnies" : 7 
+
