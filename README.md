@@ -34,7 +34,7 @@ Cloned after reading instructions
 - [x] Chocolate 
 - [ ] Bacon 
 
-## Part Two 
+## Part One  
 ```mermaid 
 flowchart TD
     A[How to play: Rock, Paper Scissors!]
@@ -59,4 +59,4 @@ journey
       Help people out: 9.: Simone 
       Go home: 9: Simone 
 ```
-
+## Part Two 
