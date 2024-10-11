@@ -34,6 +34,7 @@ Cloned after reading instructions
 - [x] Chocolate 
 - [ ] Bacon 
 
+## Part Two 
 ```mermaid 
 flowchart TD
     A[How to play: Rock, Paper Scissors!]
@@ -43,6 +44,9 @@ flowchart TD
     C--> F[You choose: Paper]
     D --> G[You choose: Scissors]
     E --> H[You choose: Rock]
+``` 
+
+```mermaid 
 journey
     title My working day
     section Go to school 
@@ -54,5 +58,5 @@ journey
     section Go to work 
       Help people out: 9.: Simone 
       Go home: 9: Simone 
-
+```
 
