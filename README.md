@@ -43,6 +43,16 @@ flowchart TD
     C--> F[You choose: Paper]
     D --> G[You choose: Scissors]
     E --> H[You choose: Rock]
-    NEWLINE 
+journey
+    title My working day
+    section Go to school 
+      English Class: 9: Simone 
+      Chemistry Class: 3: Simone 
+      Lunch: 4: Simone
+      NOS: 7: Simone 
+      CTI: 8: Simone  
+    section Go to work 
+      Help people out: 9.: Simone 
+      Go home: 9: Simone 
 
 
