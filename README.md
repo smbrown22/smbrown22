@@ -60,3 +60,24 @@ journey
       Go home: 9: Simone 
 ```
 ## Part Two 
+#### Prompt - Create a flowchart which is the process of making coffee 
+```mermaid
+flowchart TD
+A[How to make a cup of coffee!] --> B[Do you have water boiled?]
+B --> C[Yes]
+B --> D[No]
+C --> F[Add coffee to your mug!]
+D --> E[Boil your water!!]
+E --> B
+F --> G[Pour boiled water into your mug!]
+G --> H[Stir the contents]
+H --> I[Will you add milk or sugar?]
+I --> J[No]
+I --> K[Only Milk]
+I --> L[Only Sugar]
+I --> M[Both!]
+K --> N[Stir]
+L --> N
+M --> N 
+J --> O[Enjoy!]
+N --> O 
