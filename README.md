@@ -42,5 +42,7 @@ flowchart TD
     A --> E[Scissors]
     C--> F[You choose: Paper]
     D --> G[You choose: Scissors]
-    E --> H[You choose: Rock]; 
+    E --> H[You choose: Rock]
+    end
+
 
